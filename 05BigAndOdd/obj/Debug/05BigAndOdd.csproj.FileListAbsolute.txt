@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\05BigAndOdd\bin\Debug\05BigAndOdd.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\05BigAndOdd\bin\Debug\05BigAndOdd.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\05BigAndOdd\bin\Debug\05BigAndOdd.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\05BigAndOdd\obj\Debug\05BigAndOdd.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\05BigAndOdd\obj\Debug\05BigAndOdd.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\05BigAndOdd\obj\Debug\05BigAndOdd.csprojResolveAssemblyReference.cache

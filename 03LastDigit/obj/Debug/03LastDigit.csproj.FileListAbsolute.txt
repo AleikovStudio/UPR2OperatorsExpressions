@@ -1,0 +1,5 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\03LastDigit\bin\Debug\03LastDigit.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\03LastDigit\bin\Debug\03LastDigit.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\03LastDigit\bin\Debug\03LastDigit.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\03LastDigit\obj\Debug\03LastDigit.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\03LastDigit\obj\Debug\03LastDigit.pdb

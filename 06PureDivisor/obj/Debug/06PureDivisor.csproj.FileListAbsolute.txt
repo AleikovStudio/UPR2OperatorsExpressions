@@ -1,0 +1,5 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\06PureDivisor\bin\Debug\06PureDivisor.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\06PureDivisor\bin\Debug\06PureDivisor.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\06PureDivisor\bin\Debug\06PureDivisor.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\06PureDivisor\obj\Debug\06PureDivisor.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR2OperatorsExpressions\06PureDivisor\obj\Debug\06PureDivisor.pdb
